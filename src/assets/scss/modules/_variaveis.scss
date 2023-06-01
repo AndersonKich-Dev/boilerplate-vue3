@@ -1,0 +1,33 @@
+$bg-burple: #3E2D58;
+
+// Input Colors
+$btnPrimaryColor: #01a390 !default;
+$btnWarningColor: #E53854 !default;
+$btnSelectedColor: #17E8D5 !default;
+$labelSelct: #17E8D5 !default;
+
+//General 
+$white-200: #fefefe !default;
+$black: #000 !default;
+$gray-200: #ccc !default;
+$gray-300: #919191 !default;
+$purple-500: #1E192E !default;
+$blue-500: #1E2232 !default;
+$blue-300: #212638 !default;
+$ciano-500: #17E8D5 !default;
+$lilas-500: #372E4A !default;
+
+//Linear gradiente
+$linear-orange-500:linear-gradient(to right, #fd746c 0%, #ff9068 51%, #fd746c 100%) !default;
+$linear-ciano-500: linear-gradient(to right, #4ECDC4 0%, #556270 51%, #4ECDC4 100%) !default;
+
+//fundo
+$bg-ciano-500: $ciano-500;
+$bg-lilas-500: $lilas-500;
+$bg-purple-500: $purple-500;
+$bg-blue-500: $blue-500;
+$bg-blue-300: $blue-300;
+
+//Border
+$border-gray-300: $gray-300;
+$border-ciano-500: $ciano-500;

@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+@media (max-width: 1080px) {
+html {
+    font-size: 93.75%;
+}   
+}
+  
+@media (max-width: 720px) {
+html {
+    font-size: 87.5%;
+}   
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    outline: none;
+    color: #efefef;
+}
+
+button {
+    cursor: pointer;
+    outline: none;
+    background-color: none;
+    border: 0;
+}
+

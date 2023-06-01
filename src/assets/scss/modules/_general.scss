@@ -1,0 +1,24 @@
+// Durations
+$fastDuration: .1s !default;
+$mediumDuration: .3s !default;
+$slowDuration: .5s !default;
+
+//Sizes default
+
+$sizeDefault: 1rem; // 16px
+$smallSize-10: 0.625rem; //10px
+$smallSize-12: 0.75rem; // 12px
+$smallSize-14: 0.875rem;// 14px
+$smallSize-20: 1.25rem; //20px
+
+.w-flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.w-flex-column-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
